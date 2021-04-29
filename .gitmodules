@@ -87,3 +87,8 @@
 	path = value_merchandise_sent
 	url = git@github.com:GustavoRequiez/value_merchandise_sent.git
 	branch = 12.0
+
+[submodule "product_classification"]
+	path = product_classification
+	url = git@github.com:GustavoRequiez/product_classification.git
+	branch = 12.0
