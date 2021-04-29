@@ -2,3 +2,8 @@
 	path = mrp_ii
 	url = git@github.com:GrupoRequiez/mrp_ii.git
 	branch = 12.0
+
+[submodule "mrp_sale_info"]
+	path = mrp_sale_info
+	url = git@github.com:GrupoRequiez/mrp_sale_info.git
+	branch = 12.0
