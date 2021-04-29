@@ -67,3 +67,8 @@
 	path = mass_editing
 	url = git@github.com:GrupoRequiez/mass_editing.git
 	branch = 12.0
+
+[submodule "incoming_products_kardex"]
+	path = incoming_products_kardex
+	url = git@github.com:GustavoRequiez/incoming_products_kardex.git
+	branch = 12.0
