@@ -37,3 +37,8 @@
 	path = sale_order_observation
 	url = git@github.com:GrupoRequiez/sale_order_observation.git
 	branch = 12.0
+
+[submodule "stock_kardex"]
+	path = stock_kardex
+	url = git@github.com:GrupoRequiez/stock_kardex.git
+	branch = 12.0
