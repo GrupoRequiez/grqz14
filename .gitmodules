@@ -52,3 +52,8 @@
 	path = stock_no_negative
 	url = git@github.com:GrupoRequiez/stock_no_negative.git
 	branch = 12.0
+
+[submodule "web_notify"]
+	path = web_notify
+	url = git@github.com:GrupoRequiez/web_notify.git
+	branch = 12.0
